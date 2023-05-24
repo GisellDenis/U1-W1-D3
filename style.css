@@ -1,0 +1,58 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  width: 100%;
+}
+
+header {
+  text-align: center;
+}
+
+main,
+footer {
+  padding-left: 27%;
+  padding-right: 27%;
+}
+
+section {
+  padding-left: 35%;
+  padding-right: 35%;
+  text-align: center;
+}
+
+article {
+  text-align: center;
+}
+
+.logo {
+  background-color: #ffb4431b;
+  padding: 1em;
+  border-top-color: orange;
+  border-top-width: 1px;
+  border-top-style: solid;
+}
+
+
+
+.link {
+  color: red;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: orange;
+  padding-left: 1em;
+}
+
+.border {
+  border-bottom-color: lightblue;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  padding-bottom: 1em;
+}
+
+
+video {
+    
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+  }
+ 
